@@ -6,4 +6,4 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
       
-foo: Modified 530
+foo: Modified 614
